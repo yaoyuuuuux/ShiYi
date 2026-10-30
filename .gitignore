@@ -9,6 +9,9 @@ venv/
 .idea/
 *.iml
 
+# 学习 / 产品文档（仅本地保存，不推送）
+docs/
+
 # 本机数据（个人便贴与密钥不入库）
 notes.json
 data/
