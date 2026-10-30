@@ -45,7 +45,7 @@ ShiYi/
 ├── scripts/
 │   ├── rag_cli.py                 # CLI 薄入口
 │   └── embedding_demo.py          # 关键词 vs embedding 对比
-├── docs/                          # 产品 / 学习文档
+├── docs/                          # 产品 / 学习文档（仅本地，不入库）
 ├── CHANGELOG.md                   # 本文件
 ├── CLAUDE.md
 └── README.md
