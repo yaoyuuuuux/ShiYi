@@ -1,0 +1,8 @@
+# W1：CLI / 检索依赖
+requests>=2.31
+python-dotenv>=1.0
+
+# 不用 numpy：余弦用 math 手写，当前规模够用
+# 测试用标准库 unittest，不装 pytest
+
+# W2 再加：fastapi / uvicorn / sqlalchemy / pydantic / pymysql

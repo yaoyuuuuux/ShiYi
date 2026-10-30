@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+*.iml
+
+# 本机数据（个人便贴与密钥不入库）
+notes.json
+data/
+*.db
+*.sqlite3
+.chroma/
+*.tmp
+
+# 测试 / 检查缓存
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# 前端（W2 后）
+node_modules/
+dist/
